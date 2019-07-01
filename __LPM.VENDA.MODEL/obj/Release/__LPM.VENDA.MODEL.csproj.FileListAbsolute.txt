@@ -1,0 +1,12 @@
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\bin\Release\__LPM.VENDA.MODEL.dll.config
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\bin\Release\__LPM.VENDA.MODEL.dll
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\bin\Release\__LPM.VENDA.MODEL.pdb
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\bin\Release\EntityFramework.dll
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\bin\Release\EntityFramework.xml
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\obj\Release\__LPM.VENDA.MODEL.csprojAssemblyReference.cache
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\obj\Release\__LPM.VENDA.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\obj\Release\__LPM.VENDA.MODEL.csproj.CopyComplete
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\obj\Release\__LPM.VENDA.MODEL.dll
+C:\Users\nguer\OneDrive\Área de Trabalho\workspace\__LPM.VENDA\__LPM.VENDA.MODEL\obj\Release\__LPM.VENDA.MODEL.pdb

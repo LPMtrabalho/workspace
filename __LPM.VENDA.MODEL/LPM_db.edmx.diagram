@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cebe6cd6d17e413f86fc8f6bc25e50a6" Name="Diagram1">
+        <AssociationConnector Association="LPM_dbModel.FK_LPM_Cliente_endereco_LPM_Cliente" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="LPM_dbModel.LPM_Cliente" Width="1.5" PointX="0.75" PointY="0.75" FillColor="0, 192, 192" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
